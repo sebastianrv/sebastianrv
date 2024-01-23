@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning Databricks  
   
 
-- 💼 My project portfolio is available at  
+- 💼 My project portfolio is available at [Portfolio/SebastianRomeroVilla](https://www.datascienceportfol.io/sebastianromerovilla)  
   
 
-- ✉️ If you want to reach me directly at [romero_villa-sebastian@hotmail.com](http://example/com)  
+- ✉️ If you want to reach me directly at [romero_villa-sebastian@hotmail.com](romero_villa-sebastian@hotmail.com)  
   
 
 <br/>  
