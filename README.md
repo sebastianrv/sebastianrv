@@ -48,8 +48,9 @@
 
 
 ## Github Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannv&layout=compact&hide_border=true" />
-</p>
+<table><tr><td valign="top" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianrv&hide_border=true&layout=compact" align="left" />
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div
