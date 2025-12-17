@@ -54,8 +54,10 @@
 
 </td><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianrv&show_icons=true&count_private=true&hide_border=true" align="left" />
+
 </td></tr></table>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div
