@@ -3,13 +3,6 @@
 
 ### <div align="center">Bachelor in Information Systems Engineering @UPC . Passionate about extracting valuable information and leveraging data-driven solutions. With expertise in SQL, Python and data visualization.</div>  
   
-
-- 🔭 I’m currently working on Baufest as Data Specialist  
-  
-
-- 🌱 I’m currently learning Databricks  
-  
-
 - 💼 My project portfolio is available at [Portfolio/SebastianRomeroVilla](https://www.datascienceportfol.io/sebastianromerovilla)  
   
 
@@ -45,15 +38,9 @@
 <a href="https://github.com/sebastianrv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ben_datos" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sebastianromerovilla" target="_blank">
+  <a href="https://linkedin.com/in/sebastianromerovilla" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/sebastianromerovilla" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
