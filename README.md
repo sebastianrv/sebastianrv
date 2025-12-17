@@ -2,7 +2,8 @@
   
 
 ### <div align="center">Bachelor in Information Systems Engineering @UPC . Passionate about extracting valuable information and leveraging data-driven solutions. With expertise in SQL, Python and data visualization.</div>  
-  
+
+
 - 💼 My project portfolio is available at [Portfolio/SebastianRomeroVilla](https://www.datascienceportfol.io/sebastianromerovilla)  
   
 
@@ -51,6 +52,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianrv&layout=compact&hide_border=true" />
 </p>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div
